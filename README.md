@@ -10,7 +10,7 @@ PDFConverse is a chatbot that makes reading and interacting with PDF documents e
 ### Installation
 1. Clone the repository:
 ```
-git clone [URL of your GitHub repository]
+git clone https://github.com/Shonazarovmirkamol/PDFConverse
 ```
 2. Navigate to the project directory:
 ```
@@ -30,5 +30,5 @@ export OPENAI_API_KEY='Your OpenAI API Key Here'
 ### Running the Project
 1. To start the chatbot, run:
 ```
-python pdfconverse.py
+jupyter notebook main.ipynb
 ```
